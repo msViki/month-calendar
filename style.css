@@ -1,5 +1,5 @@
 html {
-background: no-repeat center/120% url('http://wallpapers-image.ru/1920x1080/nature/wallpapers/wallpapers-nature-30.jpg');
+background: no-repeat center/120% url('./background.jpg');
 }
 h1, form {
     text-align: center;
