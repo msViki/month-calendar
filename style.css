@@ -1,0 +1,21 @@
+table {
+    margin: 30px auto 0;
+    width: 70%;
+    border-collapse: collapse;
+  }
+  th, td {
+    padding: 10px;
+    text-align: center;
+    border: 1px solid black;
+    font-weight: 900;
+  }
+  .prev-month, .next-month {
+    color: gray;
+    font-weight: 400;
+  }
+  .weekend {
+    background-color: aquamarine;
+  }
+  .current-day {
+    background-color: red;
+  }
