@@ -1,3 +1,9 @@
+html {
+background: no-repeat center/120% url('http://wallpapers-image.ru/1920x1080/nature/wallpapers/wallpapers-nature-30.jpg');
+}
+h1, form {
+    text-align: center;
+}
 table {
     margin: 30px auto 0;
     width: 70%;

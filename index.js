@@ -8,3 +8,4 @@ let startMonth = document.querySelector(`#month${startMonthNum}`)
 startMonth.selected = true;
 let startYear = new Date().getFullYear();
 document.getElementById("year").value = startYear;
+generateCalendar()
